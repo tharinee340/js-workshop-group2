@@ -182,4 +182,21 @@ img.bag-bicon {
     margin-top: 20px;
   }
 }
+
+.card-bag {
+  margin-left: 0px;
+  margin-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid lightgrey;
+}
+
+.card-title-bag {
+  font-size: 20px;
+  color: #B02B2B;
+  font-weight: bold;
+}
+
+.card-text-bag {
+  font-size: 17px;
+}
 /*# sourceMappingURL=style.css.map */
